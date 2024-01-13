@@ -51,7 +51,7 @@ def unsignedDecimalToBinary(decimal):
             
             
             break
-    if decimal is 1:
+    if decimal == 1:
         return '1'
     elif decimal == 0:
         
